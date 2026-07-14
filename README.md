@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hey, I'm Adrian — system tuner, Rust & Tauri dev, competitive R6 player" width="100%"/>
+<img src="assets/banner.svg" alt="Hey, I'm Adrian --- system tuner, Rust & Tauri dev, competitive R6 player" width="100%"/>
 
 [![X](https://img.shields.io/badge/@zCrxticxl-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zCrxticxl)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zcrxticxl)
@@ -10,7 +10,7 @@
 
 ## 🛠️ What I build
 
-I like systems that are **fast, honest and revertible** — on Windows and Linux.
+I like systems that are **fast, honest and revertible** --- on Windows and Linux.
 
 <table>
 <tr>
@@ -18,7 +18,7 @@ I like systems that are **fast, honest and revertible** — on Windows and Linux
 
 ### ⚡ [ad-hyperoptimize](https://github.com/zCrxticxl/ad-hyperoptimize)
 
-Windows optimization suite — Tauri 2 + Rust + React. Health scoring, live metrics, journaled tweaks with one-click revert. **Zero snake oil, zero telemetry.**
+Windows optimization suite --- Tauri 2 + Rust + React. Health scoring, live metrics, journaled tweaks with one-click revert. **Zero snake oil, zero telemetry.**
 
 `Rust` `Tauri` `TypeScript`
 
@@ -46,7 +46,7 @@ Rice your whole Linux desktop from one TUI — full themes from any wallpaper, l
 
 ## 🎯 Off the keyboard… still on the keyboard
 
-Competitive **Rainbow Six Siege** player & team manager. That's where the obsession with input latency, frametimes and DPC spikes comes from — my tools exist because I wanted them for my own setup first (5800X / RTX 4080).
+Competitive **Rainbow Six Siege** player & team manager. That's where the obsession with input latency, frametimes and DPC spikes comes from --- my tools exist because I wanted them for my own setup first (5800X / RTX 4080).
 
 ## 📊 Stats
 
@@ -58,5 +58,5 @@ Competitive **Rainbow Six Siege** player & team manager. That's where the obsess
 </div>
 
 <div align="center">
-<sub>⭐ a repo if it helps you — that's the whole business model.</sub>
+<sub>⭐ a repo if it helps you --- that's the whole business model.</sub>
 </div>
