@@ -12,6 +12,8 @@
 
 I like systems that are **fast, honest and revertible** — on Windows and Linux.
 
+I build source-available tools for personal and non-commercial use. Commercial editions, support, or licensing may be available in the future; each product repository states its current license and security-reporting route.
+
 <table>
 <tr>
 <td width="33%" valign="top">
