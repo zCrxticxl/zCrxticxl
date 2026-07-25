@@ -61,7 +61,7 @@ Competitive **Rainbow Six Siege** player & team manager. That's where the obsess
 <div align="center">
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/zCrxticxl"><img src="https://img.buymeacoffee.com/button-api/?text=donation for the work :)&emoji=&slug=zCrxticxl&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" /></a>
+<a href="https://www.buymeacoffee.com/zCrxticxl"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FF5F5F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
 
 <sub>⭐ a repo if it helps you — that's the whole business model.</sub>
 </div>
