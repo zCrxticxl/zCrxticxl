@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hey, I'm Adrian — system tuner, Rust & Tauri dev, competitive R6 player" width="100%"/>
+<img src="assets/banner.svg" alt="Adrian: system tooling, Rust and Tauri developer, competitive R6 player" width="100%"/>
 
 [![X](https://img.shields.io/badge/@zCrxticxl-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zCrxticxl)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zcrxticxl)
@@ -8,61 +8,48 @@
 
 </div>
 
-## 🛠️ What I build
+## What I build
 
-I like systems that are **fast, honest and revertible** — on Windows and Linux.
+I build safe, measurable, and reversible tools for Windows and Linux. My focus is Rust, Tauri, TypeScript, Bash, desktop software, performance diagnostics, and practical system tooling.
 
-I build source-available tools for personal and non-commercial use. Commercial editions, support, or licensing may be available in the future; each product repository states its current license and security-reporting route.
+My projects are source-available for private and other non-commercial use. Commercial licensing and support may be available. Each repository states its current license and security-reporting route.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### [AD HyperOptimize](https://github.com/zCrxticxl/ad-hyperoptimize)
 
-### ⚡ [ad-hyperoptimize](https://github.com/zCrxticxl/ad-hyperoptimize)
+Windows performance and diagnostics suite built with Tauri, Rust, and React. It uses health scoring, live metrics, journaled changes, and one-click revert.
 
-Windows optimization suite — Tauri 2 + Rust + React. Health scoring, live metrics, journaled tweaks with one-click revert. **Zero snake oil, zero telemetry.**
+`Rust` `Tauri` `TypeScript` `Windows`
 
-`Rust` `Tauri` `TypeScript`
+### [Clav.Strats](https://github.com/zCrxticxl/clav-strats)
 
-</td>
-<td width="33%" valign="top">
+Cross-platform Rainbow Six Siege strategy planner with a map editor, local strategy library, import/export, and optional live collaboration.
 
-### 🐧 [adhyper-linux](https://github.com/zCrxticxl/adhyper-linux)
+`React` `Tauri` `JavaScript` `Desktop app`
 
-Deep Linux updater, cleaner & performance tuner. 15 modules, TUI, dry-run, fully revertible. Arch / Debian / Fedora / openSUSE.
+### [AD HyperOptimize Linux](https://github.com/zCrxticxl/adhyper-linux)
 
-`Bash` `systemd` `sysctl`
+Linux maintenance and performance tuning with 15 modules, a TUI, dry-run mode, and full revert support for Arch, Debian, Fedora, and openSUSE.
 
-</td>
-<td width="33%" valign="top">
+`Bash` `systemd` `sysctl` `Linux`
 
-### 🍚 [adrice](https://github.com/zCrxticxl/adrice)
+### [adrice](https://github.com/zCrxticxl/adrice)
 
-Rice your whole Linux desktop from one TUI — full themes from any wallpaper, live previews, one-key fixes, undo everything.
+Terminal-first Linux desktop theming with wallpaper palettes, live preview, a built-in doctor, and full undo support.
 
 `Bash` `GNOME` `KDE` `Hyprland`
 
-</td>
-</tr>
-</table>
+## Why this work
 
-## 🎯 Off the keyboard… still on the keyboard
+I play Rainbow Six Siege competitively and manage a team. That experience drives my interest in input latency, frametimes, DPC behavior, and dependable desktop tooling. I build tools I want to trust on my own setup first.
 
-Competitive **Rainbow Six Siege** player & team manager. That's where the obsession with input latency, frametimes and DPC spikes comes from — my tools exist because I wanted them for my own setup first (5800X / RTX 4080).
+I am open to collaboration around Rust, Tauri, Windows performance, Linux tooling, and desktop UX.
 
-## 🐍 Contributions
+## Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zCrxticxl/zCrxticxl/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/zCrxticxl/zCrxticxl/output/github-snake-dark.svg" alt="GitHub contribution graph" width="100%"/>
 
-</div>
+<sub>If a project helps you, a star or useful issue report is appreciated.</sub>
 
-<div align="center">
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/zCrxticxl"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FF5F5F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
-
-<sub>⭐ a repo if it helps you — that's the whole business model.</sub>
-</div>
 </div>
