@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Hey, I'm Adrian — system tuner, Rust & Tauri dev, competitive R6 player" width="100%"/>
+<img src="assets/banner.svg" alt="Adrian — systems & performance tooling" width="100%"/>
 
 [![X](https://img.shields.io/badge/@zCrxticxl-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zCrxticxl)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@zcrxticxl)
@@ -8,61 +8,20 @@
 
 </div>
 
-## 🛠️ What I build
+I'm Adrian, a dev in Germany. I build performance and system tooling for Windows and Linux — mostly stuff I couldn't find done the way I wanted for my own machines.
 
-I like systems that are **fast, honest and revertible** — on Windows and Linux.
+The main repos are source-available for personal, non-commercial use. Check each one for its own license and how to report security issues.
 
-I build source-available tools for personal and non-commercial use. Commercial editions, support, or licensing may be available in the future; each product repository states its current license and security-reporting route.
+## Repos
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**ad-hyperoptimize** — Windows optimization suite in Tauri 2 + Rust + React. Health scoring, live metrics, and tweaks that log every change so you can revert any single one. No snake oil, no telemetry. ([view](https://github.com/zCrxticxl/ad-hyperoptimize))
 
-### ⚡ [ad-hyperoptimize](https://github.com/zCrxticxl/ad-hyperoptimize)
+**adhyper-linux** — Linux updater, cleaner and perf tuner, 15 modules. TUI with dry-run, everything revertible. Arch / Debian / Fedora / openSUSE. ([view](https://github.com/zCrxticxl/adhyper-linux))
 
-Windows optimization suite — Tauri 2 + Rust + React. Health scoring, live metrics, journaled tweaks with one-click revert. **Zero snake oil, zero telemetry.**
+**adrice** — turns any wallpaper into a full desktop theme from a single-file TUI. Live previews, one-key fixes for broken theming. GNOME / KDE / Hyprland. ([view](https://github.com/zCrxticxl/adrice))
 
-`Rust` `Tauri` `TypeScript`
+There's also assorted smaller stuff — an R6 strategy planner, a Tarkov stash scanner, a Twitch extension, game settings tools.
 
-</td>
-<td width="33%" valign="top">
+## Outside of code
 
-### 🐧 [adhyper-linux](https://github.com/zCrxticxl/adhyper-linux)
-
-Deep Linux updater, cleaner & performance tuner. 15 modules, TUI, dry-run, fully revertible. Arch / Debian / Fedora / openSUSE.
-
-`Bash` `systemd` `sysctl`
-
-</td>
-<td width="33%" valign="top">
-
-### 🍚 [adrice](https://github.com/zCrxticxl/adrice)
-
-Rice your whole Linux desktop from one TUI — full themes from any wallpaper, live previews, one-key fixes, undo everything.
-
-`Bash` `GNOME` `KDE` `Hyprland`
-
-</td>
-</tr>
-</table>
-
-## 🎯 Off the keyboard… still on the keyboard
-
-Competitive **Rainbow Six Siege** player & team manager. That's where the obsession with input latency, frametimes and DPC spikes comes from — my tools exist because I wanted them for my own setup first (5800X / RTX 4080).
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zCrxticxl/zCrxticxl/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
-
-</div>
-
-<div align="center">
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/zCrxticxl"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FF5F5F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
-
-<sub>⭐ a repo if it helps you — that's the whole business model.</sub>
-</div>
-</div>
+I play competitive Rainbow Six Siege and help manage a team. That's honestly where the interest in input latency, frametimes and DPC spikes comes from — I built these tools to fix problems I hit on my own setup (5800X / RTX 4080).
