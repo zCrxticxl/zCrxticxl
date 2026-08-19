@@ -13,11 +13,11 @@ I'm Adrian, a dev in Germany. I build performance and system tooling for Windows
 The main repos are source-available for personal, non-commercial use. Check each one for its own license and how to report security issues.
 
 ```
- _ __  _ __ ___  ___  __| | _ __   ___  _ __
-| '__|| '__/ _ \/ _ \/ _` || '_ \ / _ \| '__|
-| |   | | |  __/  __/ (_| || |_) | (_) | |
-|_|   |_|  \___|\___|\__,_|| .__/ \___/|_|
-                            |_|
+ ____  _____ ____   ___  ____
+|  _ \| ____|  _ \ / _ \/ ___|
+| |_) |  _| | |_) | | | \___ \
+|  _ <| |___|  __/| |_| |___) |
+|_| \_\_____|_|    \___/|____/
 ```
 
 ## Repos
