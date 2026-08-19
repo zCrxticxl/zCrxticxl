@@ -12,6 +12,14 @@ I'm Adrian, a dev in Germany. I build performance and system tooling for Windows
 
 The main repos are source-available for personal, non-commercial use. Check each one for its own license and how to report security issues.
 
+```
+  .--.      .-'.      .--.      .--.      .--.      .--.
+ : .--'    : .;  .    : .--'    : .--'    : .--'    : .--'
+ : :    _  : :_.' '   : :    _  : :    _  : :    _  : :    _
+ : :__.-'  : ;  '-.   : :__.-'  : :__.-'  : :__.-'  : :__.-'
+ '--'      '--'       '--'      '--'      '--'      '--'
+```
+
 ## Repos
 
 **ad-hyperoptimize** - Windows optimization suite in Tauri 2 + Rust + React. Health scoring, live metrics, and tweaks that log every change so you can revert any single one. No snake oil, no telemetry. ([view](https://github.com/zCrxticxl/ad-hyperoptimize))
@@ -21,6 +29,16 @@ The main repos are source-available for personal, non-commercial use. Check each
 **adrice** - turns any wallpaper into a full desktop theme from a single-file TUI. Live previews, one-key fixes for broken theming. GNOME / KDE / Hyprland. ([view](https://github.com/zCrxticxl/adrice))
 
 There's also assorted smaller stuff - an R6 strategy planner, a Tarkov stash scanner, a Twitch extension, game settings tools.
+
+```
+    _..._
+  .'     '.      _..._
+ /   .-.   \    /  _  \
+|   /   \   |  /  /_\  \
+ \  \`.' /  /  |  |_|   |
+  '.   .'  /    \       /
+    '''''-'      '''''''
+```
 
 ## Outside of code
 
