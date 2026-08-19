@@ -31,13 +31,19 @@ The main repos are source-available for personal, non-commercial use. Check each
 There's also assorted smaller stuff - an R6 strategy planner, a Tarkov stash scanner, a Twitch extension, game settings tools.
 
 ```
-    _..._
-  .'     '.      _..._
- /   .-.   \    /  _  \
-|   /   \   |  /  /_\  \
- \  \`.' /  /  |  |_|   |
-  '.   .'  /    \       /
-    '''''-'      '''''''
+ .--------------------------------.
+ |  _  _  _  _  _  _  _  _  _  _  |
+ | |TAB| |Q| |W| |E| |R| |T| |Y|  |
+ | |___| |_| |_| |_| |_| |_| |_|  |
+ |  _  _  _  _  _  _  _  _  _  _  |
+ | |CAP| |A| |S| |D| |F| |G| |H|  |
+ | |___| |_| |_| |_| |_| |_| |_|  |
+ |  _  _  _  _  _  _  _  _  _  _  |
+ | |SHF| |Z| |X| |C| |V| |B| |N|  |
+ | |___| |_| |_| |_| |_| |_| |_|  |
+ |               |SPACE|           |
+ |               |_____|           |
+ '--------------------------------'
 ```
 
 ## Outside of code
